@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shruti's Blog</title>
+    <description>Talking about technical and non-technical things I'm learning</description>
+    <link>http://localhost:4000/curioushruti/</link>
+    <atom:link href="http://localhost:4000/curioushruti/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 Jul 2020 23:46:50 -0700</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2020 23:46:50 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Test Featured Blog</title>
+        <description>&lt;p&gt;Testing content in this featured blog&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/curioushruti/test-featured-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/curioushruti/test-featured-blog/</guid>
+        
+        
+        <category>engineering management</category>
+        
+      </item>
+    
+      <item>
+        <title>Test Blog</title>
+        <description>&lt;p&gt;Testing some content in this blog&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/curioushruti/test-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/curioushruti/test-blog/</guid>
+        
+        
+        <category>machine learning</category>
+        
+      </item>
+    
+  </channel>
+</rss>
