@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/curioushruti/404.html",
+    "url": "http://localhost:4000/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/curioushruti/about",
+    "url": "http://localhost:4000/about",
     "title": "About Me",
     "body": "Hi, I’m Shruti! Pronouns: she/her Interests:  Engineering management Machine learning Computer vision Distributed systems Search and recommendation systems Ethics in AIBlogs:  Medium GitHub"
     }, {
     "id": 2,
-    "url": "http://localhost:4000/curioushruti/categories",
+    "url": "http://localhost:4000/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/curioushruti/",
+    "url": "http://localhost:4000/",
     "title": "Home",
     "body": "      Featured:                                                                                                                                                                                                           Test Featured Blog                              :               Testing content in this featured blog:                                                                                                                                                                       Shruti                                22 Jul 2020                                                                                                                            All Stories:                                                                                                     Test Blog              :       Testing some content in this blog:                                                                               Shruti                22 Jul 2020                                            "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/curioushruti/robots.txt",
+    "url": "http://localhost:4000/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/curioushruti/test-featured-blog/",
+    "url": "http://localhost:4000/test-featured-blog/",
     "title": "Test Featured Blog",
     "body": "2020/07/22 - Testing content in this featured blog "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/curioushruti/test-blog/",
+    "url": "http://localhost:4000/test-blog/",
     "title": "Test Blog",
     "body": "2020/07/22 - Testing some content in this blog "
     }];

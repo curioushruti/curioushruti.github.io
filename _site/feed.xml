@@ -3,10 +3,10 @@
   <channel>
     <title>Shruti's Blog</title>
     <description>Talking about technical and non-technical things I'm learning</description>
-    <link>http://localhost:4000/curioushruti/</link>
-    <atom:link href="http://localhost:4000/curioushruti/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jul 2020 17:46:15 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2020 17:46:15 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jul 2020 18:28:13 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 18:28:13 -0700</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Testing content in this featured blog&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jul 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/curioushruti/test-featured-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/curioushruti/test-featured-blog/</guid>
+        <link>http://localhost:4000/test-featured-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/test-featured-blog/</guid>
         
         
         <category>engineering management</category>
@@ -27,8 +27,8 @@
         <description>&lt;p&gt;Testing some content in this blog&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jul 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/curioushruti/test-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/curioushruti/test-blog/</guid>
+        <link>http://localhost:4000/test-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/test-blog/</guid>
         
         
         <category>machine learning</category>

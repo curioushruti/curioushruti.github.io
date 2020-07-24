@@ -4,7 +4,8 @@ title: "Shruti's Blog"
 description: "Talking about technical and non-technical things I'm learning"
 # logo: 'assets/images/logo.png'
 # favicon: 'assets/images/logo.png'
-baseurl: /curioushruti
+baseurl: ""
+url: "https://curioushruti.github.io"
 include: ["_pages"]
 permalink: /:title/
 
