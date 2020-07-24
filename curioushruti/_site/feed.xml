@@ -5,9 +5,9 @@
     <description>Talking about technical and non-technical things I'm learning</description>
     <link>http://localhost:4000/curioushruti/</link>
     <atom:link href="http://localhost:4000/curioushruti/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jul 2020 23:54:32 -0700</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2020 23:54:32 -0700</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Thu, 23 Jul 2020 17:40:30 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 17:40:30 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
     
       <item>
         <title>Test Featured Blog</title>
